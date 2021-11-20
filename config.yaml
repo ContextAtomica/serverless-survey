@@ -1,5 +1,5 @@
-Title: Serverless Survey
-Author: Tomasz Stachlewski
+Title: Why I took The Jab
+Author: When I am Free
 Image: https://a0.awsstatic.com/main/images/logos/aws_logo_smile_1200x630.png
 Theme: 282828
 Questions:
@@ -8,21 +8,22 @@ Questions:
         Label: What is your email?
     Question2:
         Type: Text
-        Label: What do you think about this survey?
+        Label: Have you already received the 2 jabs against COVID 19 virus?
     Question3:
         Type: Radio
-        Label: Would you like to do it again?
+        Label: Do you trust this will protect you from COVID 19 virus?
         Values:
             Value1: Of course :)
             Value2: I don't think so...
             Value3: Maybe
+            Value :The ill effect of the virus will be less severe
     Question4:
         Type: CheckBox
-        Label: "What else would you like to see in this survey?"
+        Label: "What is the main reason you took the Jab?"
         Values:
-            Value1: "Questions about my favourite programming language"
-            Value2: "Statistics on tabs vs spaces adoption"
-            Value3: "Other stuff"
+            Value1: "This was the only option to be able to go any where in the country"
+            Value2: "I feel responsible and I want to protect others"
+            Value3: "There are lot of unknowns, but it makes life in the socity easier to follow the rules"
     Question5:
         Type: Text
-        Label: What could be improved?
+        Label: Do you have any suggestion how can we get better prepared for the virus ?
